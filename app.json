@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "text-to-speech-converter",
+    "slug": "snack-7bce1f9e-20d2-4748-8785-7692ddd72cd4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mohit15.snack7bce1f9e20d2474887857692ddd72cd4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
